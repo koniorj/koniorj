@@ -17,16 +17,17 @@
   </a>
 </p>
 
-<p align="center" style="font-family: 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; color: #8b949e; line-height: 1.7; max-width: 620px; margin: 0 auto;">
-  Hi! I'm a third-year Computer Science student at AGH University of Krakow.<br /><br />
-  All I want is to learn, to help, and to stay passionate.<br />
-  I may not have all the answers, but I have the curiosity to find them.<br /><br />
-  If you have any volunteering opportunities or interesting projects to collaborate on — please reach out to me via <a href="https://www.linkedin.com/in/justyna-konior/" style="color: #5a9bd1;">LinkedIn</a> or <a href="mailto:justyna.konior0@gmail.com" style="color: #5a9bd1;">email</a>.
-</p>
+<pre align="center" style="font-family: monospace; background: transparent; border: none; color: #8b949e; font-size: 13px; line-height: 1.7; text-align: center; white-space: pre-wrap;">
+Hi! I'm a third-year Computer Science student at AGH University of Krakow.
+
+All I want is to learn, to help, and to stay passionate.
+I may not have all the answers, but I have the curiosity to find them.
+
+If you have any volunteering opportunities or interesting projects to collaborate on — please reach out to me via <a href="https://www.linkedin.com/in/justyna-konior/" target="_blank" rel="noopener noreferrer" style="color: #5a9bd1;">LinkedIn</a> or <a href="mailto:justyna.konior0@gmail.com" style="color: #5a9bd1;">email</a>.
+</pre>
 
 <br />
 
-<!-- Dyskretny podpis z inspiracją -->
-<p align="center" style="font-size: 11px; opacity: 0.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  Header inspired by <a href="https://github.com/irisdomain23" target="_blank" rel="noopener noreferrer"><b>Iris Lin</b></a>
+<p align="center">
+  <sub style="color: #484f58;">Header inspired by <a href="https://github.com/irisdomain23" target="_blank" rel="noopener noreferrer" style="color: #58a6a6;"><b>Iris Lin</b></a></sub>
 </p>
