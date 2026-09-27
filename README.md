@@ -23,10 +23,8 @@ Hi! I'm a third-year Computer Science student at AGH University of Krakow.
 All I want is to learn, to help, and to stay passionate.
 I may not have all the answers, but I have the curiosity to find them.
 
-If you have any volunteering opportunities or interesting projects to collaborate on — please reach out to me via <a href="https://www.linkedin.com/in/justyna-konior/" target="_blank" rel="noopener noreferrer" style="color: #5a9bd1;">LinkedIn</a> or <a href="mailto:justyna.konior0@gmail.com" style="color: #5a9bd1;">email</a>.
+If you have any volunteering opportunities or interesting projects to collaborate on, <br>please reach out to me via <a href="https://www.linkedin.com/in/justyna-konior/" target="_blank" rel="noopener noreferrer" style="color: #5a9bd1;">LinkedIn</a> or <a href="mailto:justyna.konior0@gmail.com" style="color: #5a9bd1;">email</a>.
 </pre>
-
-<br />
 
 <p align="center">
   <sub style="color: #484f58;">Header inspired by <a href="https://github.com/irisdomain23" target="_blank" rel="noopener noreferrer" style="color: #58a6a6;"><b>Iris Lin</b></a></sub>
