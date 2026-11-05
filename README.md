@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,git,java,bash,vim,opencv,pytorch,tensorflow,clion,vscode&theme=dark" alt="Justyna Konior Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,java,vim,opencv,pytorch,tensorflow,git,clion,vscode&theme=dark" alt="Justyna Konior Skills" />
   </a>
 </p>
 
